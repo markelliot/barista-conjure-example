@@ -1,0 +1,18 @@
+types:
+  definitions:
+    default-package: test.api
+    objects:
+      SampleResponse:
+        fields:
+          str: string
+
+services:
+  SampleService:
+    default-auth: none
+    base-path: /
+    package: test.api
+    name: Sample Conjure Service
+    endpoints:
+      sample:
+        http: GET /sample
+        returns: SampleResponse
