@@ -1,6 +1,7 @@
 package com.markelliot.barista.example.conjure;
 
 import com.markelliot.barista.Server;
+import com.markelliot.barista.conjure.ConjureAdapter;
 import com.palantir.conjure.java.undertow.lib.UndertowRuntime;
 import com.palantir.conjure.java.undertow.runtime.ConjureUndertowRuntime;
 import test.api.SampleResponse;
