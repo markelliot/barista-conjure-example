@@ -3,12 +3,13 @@ import net.ltgt.gradle.errorprone.errorprone
 
 plugins {
     idea
-    id("com.diffplug.spotless") version "6.6.0"
+    id("com.diffplug.spotless") version "6.8.0"
     id("com.google.cloud.tools.jib") version "3.2.1" apply false
     id("com.markelliot.versions") version "0.4.0"
     id("com.palantir.consistent-versions") version "2.11.0"
     id("net.ltgt.errorprone") version "2.0.2" apply false
     id("org.inferred.processors") version "3.6.0" apply false
+    id("com.palantir.conjure") version "5.20.0" apply false
 }
 
 version = "git describe --tags".runCommand().trim() +
@@ -27,7 +28,12 @@ allprojects {
 
 allprojects {
     apply(plugin = "idea")
-    apply(plugin = "com.diffplug.spotless")
+
+    val applySpotless = !"${project.name}".startsWith("barista-conjure-api")
+
+    if (applySpotless) {
+        apply(plugin = "com.diffplug.spotless")
+    }
 
     // lives in allprojects because of consistent-versions
     repositories {
@@ -61,10 +67,13 @@ allprojects {
             "compileOnly"("com.jakewharton.nopen:nopen-annotations")
         }
 
-        spotless {
-            java {
-                googleJavaFormat("1.10.0").aosp()
+        if (applySpotless) {
+            spotless {
+                java {
+                    googleJavaFormat("1.10.0").aosp()
+                }
             }
+            tasks["check"].dependsOn("spotlessCheck")
         }
 
         tasks.withType<JavaCompile> {
@@ -72,17 +81,16 @@ allprojects {
         }
 
         the<JavaPluginExtension>().sourceCompatibility = JavaVersion.VERSION_17
-
-        tasks["check"].dependsOn("spotlessCheck")
     }
 
-    spotless {
-        kotlinGradle {
-            ktlint()
+    if (applySpotless) {
+        spotless {
+            kotlinGradle {
+                ktlint()
+            }
         }
+        tasks.register("format").get().dependsOn("spotlessApply")
     }
-
-    tasks.register("format").get().dependsOn("spotlessApply")
 }
 
 fun booleanEnv(envVar: String): Boolean? {

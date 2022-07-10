@@ -1,7 +1,4 @@
 plugins {
-    id("com.palantir.conjure") version "5.20.0"
+    id("com.palantir.conjure")
 }
 
-subprojects {
-    tasks["spotlessJavaCheck"].enabled = false
-}
