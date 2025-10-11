@@ -1,89 +1,177 @@
-# Run ./gradlew --write-locks to regenerate this file
+# Run ./gradlew writeVersionsLocks to regenerate this file. Blank lines are to minimize merge conflicts.
+
 com.auth0:java-jwt:4.5.0 (3 constraints: 18232439)
+
 com.fasterxml.jackson:jackson-bom:2.20.0 (11 constraints: cbe222df)
+
 com.fasterxml.jackson.core:jackson-annotations:2.20 (11 constraints: 32c670cb)
+
 com.fasterxml.jackson.core:jackson-core:2.20.0 (15 constraints: 262d61b4)
+
 com.fasterxml.jackson.core:jackson-databind:2.20.0 (17 constraints: 1e556076)
+
 com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.20.0 (4 constraints: ae494164)
+
 com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.20.0 (4 constraints: ae494164)
+
 com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.20.0 (3 constraints: 2b2de7fb)
+
 com.fasterxml.jackson.datatype:jackson-datatype-guava:2.20.0 (4 constraints: ae494164)
+
 com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.20.0 (4 constraints: ae494164)
+
 com.fasterxml.jackson.datatype:jackson-datatype-joda:2.20.0 (4 constraints: ae494164)
+
 com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.20.0 (4 constraints: ae494164)
+
 com.github.ben-manes.caffeine:caffeine:3.2.2 (3 constraints: 1223f637)
+
 com.google.code.findbugs:jsr305:3.0.2 (8 constraints: 669ca207)
+
 com.google.errorprone:error_prone_annotations:2.41.0 (18 constraints: f129de37)
+
 com.google.guava:failureaccess:1.0.3 (3 constraints: 1928a868)
+
 com.google.guava:guava:33.5.0-jre (13 constraints: 36f0ff2e)
+
 com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava (3 constraints: 0e51bc8b)
+
 com.google.j2objc:j2objc-annotations:3.1 (3 constraints: b9270135)
+
 com.jakewharton.nopen:nopen-annotations:1.0.1 (5 constraints: 7c43dbfd)
+
 com.markelliot.barista:barista:0.115.0 (2 constraints: 5f16d01b)
+
 com.markelliot.barista:barista-conjure:0.115.0 (1 constraints: 69059b40)
+
 com.markelliot.barista.tracing:barista-tracing:0.124.0 (3 constraints: 3224dce2)
+
 com.markelliot.result:result:0.127.0 (3 constraints: 3524f3e3)
+
 com.palantir.conjure.java:conjure-java-undertow-runtime:8.58.0 (3 constraints: bc231d93)
+
 com.palantir.conjure.java:conjure-lib:8.58.0 (6 constraints: 796b7add)
+
 com.palantir.conjure.java:conjure-undertow-lib:8.58.0 (4 constraints: 203b39d8)
+
 com.palantir.conjure.java.api:errors:2.65.0 (4 constraints: f545d902)
+
 com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.25.0 (3 constraints: 003be576)
+
 com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.25.0 (3 constraints: e335457d)
+
 com.palantir.deadlines:deadlines:0.16.0 (3 constraints: 6b35ed29)
+
 com.palantir.nylon:nylon-threads:0.4.0 (3 constraints: 0f2e5e29)
+
 com.palantir.ri:resource-identifier:2.11.0 (5 constraints: 4759683c)
+
 com.palantir.safe-logging:logger:3.9.0 (12 constraints: ffc5471f)
+
 com.palantir.safe-logging:logger-slf4j:3.9.0 (3 constraints: 1a2cfb65)
+
 com.palantir.safe-logging:logger-spi:3.9.0 (4 constraints: 303c7025)
+
 com.palantir.safe-logging:preconditions:3.9.0 (17 constraints: 3219130e)
+
 com.palantir.safe-logging:safe-logging:3.9.0 (17 constraints: 401b2f75)
+
 com.palantir.tokens:auth-tokens:3.19.0 (5 constraints: c65948b9)
+
 com.palantir.tracing:tracing:6.28.0 (5 constraints: ab54dcd4)
+
 com.palantir.tracing:tracing-api:6.28.0 (5 constraints: 29538779)
+
 com.palantir.tracing:tracing-undertow:6.28.0 (3 constraints: d6353078)
+
 com.palantir.tritium:tritium-api:0.109.0 (4 constraints: 0e3eee51)
+
 com.palantir.tritium:tritium-core:0.109.0 (3 constraints: eb2efbd2)
+
 com.palantir.tritium:tritium-ids:0.104.0 (3 constraints: b72e7b06)
+
 com.palantir.tritium:tritium-metrics:0.109.0 (3 constraints: fd2c0408)
+
 com.palantir.tritium:tritium-registry:0.109.0 (5 constraints: 1d5ad23c)
+
 io.dropwizard.metrics:metrics-core:4.2.37 (6 constraints: 5c6a2668)
+
 io.smallrye.common:smallrye-common-annotation:2.6.0 (1 constraints: c30d1c36)
+
 io.smallrye.common:smallrye-common-constraint:2.6.0 (4 constraints: 8a413caf)
+
 io.smallrye.common:smallrye-common-cpu:2.6.0 (2 constraints: 731c91d2)
+
 io.smallrye.common:smallrye-common-expression:2.4.0 (1 constraints: b10e835a)
+
 io.smallrye.common:smallrye-common-function:2.6.0 (2 constraints: 5c215988)
+
 io.smallrye.common:smallrye-common-net:2.4.0 (1 constraints: b10e835a)
+
 io.smallrye.common:smallrye-common-os:2.4.0 (1 constraints: b10e835a)
+
 io.smallrye.common:smallrye-common-ref:2.4.0 (1 constraints: b10e835a)
+
 io.undertow:undertow-core:2.3.20.Final (6 constraints: e96b6488)
+
 joda-time:joda-time:2.12.7 (3 constraints: a234fe18)
+
 org.apache.logging.log4j:log4j-api:2.25.1 (5 constraints: 914c0d88)
+
 org.apache.logging.log4j:log4j-core:2.25.1 (3 constraints: 772fe7a4)
+
 org.apache.logging.log4j:log4j-jul:2.25.1 (2 constraints: 701ea486)
+
 org.apache.logging.log4j:log4j-slf4j2-impl:2.25.1 (2 constraints: 701ea486)
+
 org.checkerframework:checker-qual:3.49.1 (3 constraints: e735d87d)
+
 org.eclipse.collections:eclipse-collections:13.0.0 (3 constraints: 7d2ee6c2)
+
 org.eclipse.collections:eclipse-collections-api:13.0.0 (4 constraints: 5b41a38a)
+
 org.hdrhistogram:HdrHistogram:2.2.2 (3 constraints: 152e822a)
+
 org.immutables:value:2.11.3 (3 constraints: 2d2e1892)
+
 org.jboss.logging:jboss-logging:3.6.1.Final (9 constraints: 03a62666)
+
 org.jboss.threads:jboss-threads:3.7.0.Final (5 constraints: f64cb270)
+
 org.jboss.xnio:xnio-api:3.8.16.Final (5 constraints: 0857e5bd)
+
 org.jboss.xnio:xnio-nio:3.8.16.Final (3 constraints: a730c7db)
+
 org.jetbrains:annotations:26.0.2 (5 constraints: a7441436)
+
 org.jspecify:jspecify:1.0.0 (9 constraints: f884715c)
+
 org.mpierce.metrics.reservoir:hdrhistogram-metrics-reservoir:1.1.3 (3 constraints: 122ee429)
+
 org.slf4j:slf4j-api:2.0.17 (9 constraints: 0b929d0b)
+
 org.wildfly.client:wildfly-client-config:1.0.1.Final (3 constraints: c32e7eec)
+
 org.wildfly.common:wildfly-common:2.0.1 (5 constraints: 22502229)
+
 org.yaml:snakeyaml:2.4 (3 constraints: 8934596c)
 
+
+
 [Test dependencies]
+
 net.bytebuddy:byte-buddy:1.17.7 (2 constraints: 741893b8)
+
 org.assertj:assertj-core:3.27.6 (2 constraints: 6412871e)
+
 org.junit:junit-bom:6.0.0 (5 constraints: 6e48d694)
+
 org.junit.jupiter:junit-jupiter-api:6.0.0 (2 constraints: b219f0f2)
+
 org.junit.jupiter:junit-jupiter-engine:6.0.0 (2 constraints: 140e5458)
+
 org.junit.platform:junit-platform-commons:6.0.0 (3 constraints: df292429)
+
 org.junit.platform:junit-platform-engine:6.0.0 (2 constraints: b219f0f2)
+
 org.opentest4j:opentest4j:1.3.0 (2 constraints: cf209249)
