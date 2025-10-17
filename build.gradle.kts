@@ -3,7 +3,7 @@ import net.ltgt.gradle.errorprone.errorprone
 
 plugins {
     idea
-    id("com.diffplug.spotless") version "6.10.0"
+    id("com.diffplug.spotless") version "8.0.0"
     id("com.google.cloud.tools.jib") version "3.4.5" apply false
     id("com.markelliot.versions") version "0.136.0"
     id("com.palantir.consistent-versions") version "2.11.0"
@@ -93,15 +93,14 @@ allprojects {
     }
 }
 
-fun booleanEnv(envVar: String): Boolean? {
-    return System.getenv(envVar)?.toBoolean()
-}
+fun booleanEnv(envVar: String): Boolean? = System.getenv(envVar)?.toBoolean()
 
 fun String.runCommand(): String {
-    val proc = ProcessBuilder(*split(" ").toTypedArray())
-        .redirectOutput(ProcessBuilder.Redirect.PIPE)
-        .redirectError(ProcessBuilder.Redirect.INHERIT)
-        .start()
+    val proc =
+        ProcessBuilder(*split(" ").toTypedArray())
+            .redirectOutput(ProcessBuilder.Redirect.PIPE)
+            .redirectError(ProcessBuilder.Redirect.INHERIT)
+            .start()
     proc.waitFor(10, TimeUnit.SECONDS)
     return proc.inputStream.bufferedReader().readText()
 }
