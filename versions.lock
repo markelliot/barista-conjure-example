@@ -4,11 +4,11 @@ com.auth0:java-jwt:4.5.0 (3 constraints: 18232439)
 
 com.fasterxml.jackson:jackson-bom:2.20.0 (11 constraints: b7e210dd)
 
-com.fasterxml.jackson.core:jackson-annotations:2.20 (12 constraints: 39caf6ee)
+com.fasterxml.jackson.core:jackson-annotations:2.20 (12 constraints: 01c92f72)
 
-com.fasterxml.jackson.core:jackson-core:2.20.0 (15 constraints: 122d77a3)
+com.fasterxml.jackson.core:jackson-core:2.20.0 (15 constraints: fe2c579b)
 
-com.fasterxml.jackson.core:jackson-databind:2.20.0 (17 constraints: 0a559258)
+com.fasterxml.jackson.core:jackson-databind:2.20.0 (17 constraints: ec547543)
 
 com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.20.0 (4 constraints: 9a49175c)
 
@@ -48,11 +48,11 @@ com.markelliot.barista.tracing:barista-tracing:0.124.0 (3 constraints: 3224dce2)
 
 com.markelliot.result:result:0.127.0 (3 constraints: 3b2498e4)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.58.0 (3 constraints: cc23cd94)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.59.0 (3 constraints: cd232895)
 
-com.palantir.conjure.java:conjure-lib:8.58.0 (6 constraints: 896b9aeb)
+com.palantir.conjure.java:conjure-lib:8.59.0 (6 constraints: 8b6b74ec)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.58.0 (4 constraints: 303bf9dd)
+com.palantir.conjure.java:conjure-undertow-lib:8.59.0 (4 constraints: 313bfcdd)
 
 com.palantir.conjure.java.api:errors:2.65.0 (4 constraints: ff454708)
 
@@ -76,7 +76,7 @@ com.palantir.safe-logging:preconditions:3.9.0 (17 constraints: 3219130e)
 
 com.palantir.safe-logging:safe-logging:3.9.0 (17 constraints: 401b2f75)
 
-com.palantir.tokens:auth-tokens:3.19.0 (5 constraints: c859ceba)
+com.palantir.tokens:auth-tokens:3.20.0 (5 constraints: b05991b5)
 
 com.palantir.tracing:tracing:6.28.0 (5 constraints: b954c2de)
 
@@ -112,7 +112,7 @@ io.smallrye.common:smallrye-common-os:2.4.0 (3 constraints: b82ce998)
 
 io.smallrye.common:smallrye-common-ref:2.4.0 (3 constraints: b82ce998)
 
-io.undertow:undertow-core:2.3.20.Final (6 constraints: db6b5e7c)
+io.undertow:undertow-core:2.3.20.Final (6 constraints: dd6b147d)
 
 joda-time:joda-time:2.12.7 (3 constraints: a234fe18)
 
