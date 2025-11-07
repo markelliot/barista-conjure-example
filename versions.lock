@@ -2,27 +2,27 @@
 
 com.auth0:java-jwt:4.5.0 (3 constraints: 18232439)
 
-com.fasterxml.jackson:jackson-bom:2.20.1 (11 constraints: c0e21ce9)
+com.fasterxml.jackson:jackson-bom:2.20.1 (11 constraints: c2e24ee9)
 
 com.fasterxml.jackson.core:jackson-annotations:2.20 (12 constraints: 01c92f72)
 
-com.fasterxml.jackson.core:jackson-core:2.20.1 (15 constraints: 072d11ae)
+com.fasterxml.jackson.core:jackson-core:2.20.1 (15 constraints: 092dbfaf)
 
-com.fasterxml.jackson.core:jackson-databind:2.20.1 (17 constraints: f4544958)
+com.fasterxml.jackson.core:jackson-databind:2.20.1 (17 constraints: f654415b)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.20.1 (4 constraints: 9b49be5c)
+com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.20.1 (4 constraints: 9d498c5d)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.20.1 (4 constraints: 9b49be5c)
+com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.20.1 (4 constraints: 9d498c5d)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.20.1 (3 constraints: 182d2efa)
+com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.20.1 (3 constraints: 1a2d60fa)
 
-com.fasterxml.jackson.datatype:jackson-datatype-guava:2.20.1 (4 constraints: 9b49be5c)
+com.fasterxml.jackson.datatype:jackson-datatype-guava:2.20.1 (4 constraints: 9d498c5d)
 
-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.20.1 (4 constraints: 9b49be5c)
+com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.20.1 (4 constraints: 9d498c5d)
 
-com.fasterxml.jackson.datatype:jackson-datatype-joda:2.20.1 (4 constraints: 9b49be5c)
+com.fasterxml.jackson.datatype:jackson-datatype-joda:2.20.1 (4 constraints: 9d498c5d)
 
-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.20.1 (4 constraints: 9b49be5c)
+com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.20.1 (4 constraints: 9d498c5d)
 
 com.github.ben-manes.caffeine:caffeine:3.2.3 (3 constraints: 15237e38)
 
@@ -40,19 +40,19 @@ com.google.j2objc:j2objc-annotations:3.1 (3 constraints: ff263ba7)
 
 com.jakewharton.nopen:nopen-annotations:1.0.1 (5 constraints: 7c43dbfd)
 
-com.markelliot.barista:barista:0.121.0 (2 constraints: 59162d1b)
+com.markelliot.barista:barista:0.122.0 (2 constraints: 5b16641b)
 
-com.markelliot.barista:barista-conjure:0.121.0 (1 constraints: 66059340)
+com.markelliot.barista:barista-conjure:0.122.0 (1 constraints: 67059640)
 
-com.markelliot.barista.tracing:barista-tracing:0.129.0 (3 constraints: 3724ade4)
+com.markelliot.barista.tracing:barista-tracing:0.129.0 (3 constraints: 4124c0e5)
 
 com.markelliot.result:result:0.131.0 (3 constraints: 2a2480e1)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.61.0 (3 constraints: c823e292)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.61.0 (3 constraints: ba236a91)
 
-com.palantir.conjure.java:conjure-lib:8.61.0 (6 constraints: 7f6b44e8)
+com.palantir.conjure.java:conjure-lib:8.61.0 (6 constraints: 716beadb)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.61.0 (4 constraints: 2c3ba0de)
+com.palantir.conjure.java:conjure-undertow-lib:8.61.0 (4 constraints: 1e3b9ad9)
 
 com.palantir.conjure.java.api:errors:2.65.0 (4 constraints: ff454708)
 
@@ -78,11 +78,11 @@ com.palantir.safe-logging:safe-logging:3.9.0 (17 constraints: 401b2f75)
 
 com.palantir.tokens:auth-tokens:3.20.0 (5 constraints: a05963a9)
 
-com.palantir.tracing:tracing:6.29.0 (5 constraints: bb5421df)
+com.palantir.tracing:tracing:6.29.0 (5 constraints: bd548be0)
 
-com.palantir.tracing:tracing-api:6.29.0 (5 constraints: 3a53c283)
+com.palantir.tracing:tracing-api:6.29.0 (5 constraints: 3c532485)
 
-com.palantir.tracing:tracing-undertow:6.29.0 (3 constraints: e5353b7d)
+com.palantir.tracing:tracing-undertow:6.29.0 (3 constraints: e735f37d)
 
 com.palantir.tritium:tritium-api:0.109.0 (4 constraints: 643efba4)
 
