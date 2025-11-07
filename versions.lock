@@ -32,7 +32,7 @@ com.google.errorprone:error_prone_annotations:2.43.0 (18 constraints: fa292152)
 
 com.google.guava:failureaccess:1.0.3 (3 constraints: 1928a868)
 
-com.google.guava:guava:33.5.0-jre (13 constraints: 28f01512)
+com.google.guava:guava:33.5.0-jre (13 constraints: 1af0d205)
 
 com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava (3 constraints: 0e51bc8b)
 
@@ -48,11 +48,11 @@ com.markelliot.barista.tracing:barista-tracing:0.129.0 (3 constraints: 3724ade4)
 
 com.markelliot.result:result:0.131.0 (3 constraints: 2a2480e1)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.60.0 (3 constraints: c7238792)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.61.0 (3 constraints: c823e292)
 
-com.palantir.conjure.java:conjure-lib:8.60.0 (6 constraints: 7d6b6ae7)
+com.palantir.conjure.java:conjure-lib:8.61.0 (6 constraints: 7f6b44e8)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.60.0 (4 constraints: 2b3b9dde)
+com.palantir.conjure.java:conjure-undertow-lib:8.61.0 (4 constraints: 2c3ba0de)
 
 com.palantir.conjure.java.api:errors:2.65.0 (4 constraints: ff454708)
 
@@ -78,11 +78,11 @@ com.palantir.safe-logging:safe-logging:3.9.0 (17 constraints: 401b2f75)
 
 com.palantir.tokens:auth-tokens:3.20.0 (5 constraints: a05963a9)
 
-com.palantir.tracing:tracing:6.28.0 (5 constraints: b954c2de)
+com.palantir.tracing:tracing:6.29.0 (5 constraints: bb5421df)
 
-com.palantir.tracing:tracing-api:6.28.0 (5 constraints: 37533583)
+com.palantir.tracing:tracing-api:6.29.0 (5 constraints: 3a53c283)
 
-com.palantir.tracing:tracing-undertow:6.28.0 (3 constraints: e435387d)
+com.palantir.tracing:tracing-undertow:6.29.0 (3 constraints: e5353b7d)
 
 com.palantir.tritium:tritium-api:0.109.0 (4 constraints: 643efba4)
 
