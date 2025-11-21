@@ -28,7 +28,7 @@ com.github.ben-manes.caffeine:caffeine:3.2.3 (3 constraints: 15237e38)
 
 com.google.code.findbugs:jsr305:3.0.2 (8 constraints: 669ca207)
 
-com.google.errorprone:error_prone_annotations:2.43.0 (18 constraints: fa292152)
+com.google.errorprone:error_prone_annotations:2.43.0 (18 constraints: 812a2ea6)
 
 com.google.guava:failureaccess:1.0.3 (3 constraints: 1928a868)
 
@@ -48,11 +48,11 @@ com.markelliot.barista.tracing:barista-tracing:0.129.0 (3 constraints: 4124c0e5)
 
 com.markelliot.result:result:0.131.0 (3 constraints: 2c24b7e1)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.62.0 (3 constraints: bb23c591)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.64.0 (3 constraints: bd237b92)
 
-com.palantir.conjure.java:conjure-lib:8.62.0 (6 constraints: 736bc4dc)
+com.palantir.conjure.java:conjure-lib:8.64.0 (6 constraints: 776b78de)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.62.0 (4 constraints: 1f3b9dd9)
+com.palantir.conjure.java:conjure-undertow-lib:8.64.0 (4 constraints: 213ba3d9)
 
 com.palantir.conjure.java.api:errors:2.65.0 (4 constraints: ff454708)
 
