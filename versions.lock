@@ -6,9 +6,9 @@ com.fasterxml.jackson:jackson-bom:2.20.1 (11 constraints: c2e24ee9)
 
 com.fasterxml.jackson.core:jackson-annotations:2.20 (12 constraints: 01c92f72)
 
-com.fasterxml.jackson.core:jackson-core:2.20.1 (15 constraints: ff2ca6af)
+com.fasterxml.jackson.core:jackson-core:2.20.1 (15 constraints: 012d73b0)
 
-com.fasterxml.jackson.core:jackson-databind:2.20.1 (17 constraints: e254cf54)
+com.fasterxml.jackson.core:jackson-databind:2.20.1 (17 constraints: da541b4f)
 
 com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.20.1 (4 constraints: 9349735d)
 
@@ -32,7 +32,7 @@ com.google.errorprone:error_prone_annotations:2.43.0 (18 constraints: ae2a3d85)
 
 com.google.guava:failureaccess:1.0.3 (3 constraints: 1928a868)
 
-com.google.guava:guava:33.5.0-jre (13 constraints: 13f0b105)
+com.google.guava:guava:33.5.0-jre (13 constraints: 0cf0cd02)
 
 com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava (3 constraints: 0e51bc8b)
 
@@ -48,17 +48,17 @@ com.markelliot.barista.tracing:barista-tracing:0.130.0 (3 constraints: 3924d9e2)
 
 com.markelliot.result:result:0.132.0 (3 constraints: 2d2414e2)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.65.0 (3 constraints: be23d692)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.66.0 (3 constraints: bf233193)
 
-com.palantir.conjure.java:conjure-lib:8.65.0 (6 constraints: 766b4adf)
+com.palantir.conjure.java:conjure-lib:8.66.0 (6 constraints: 7b6b2de0)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.65.0 (4 constraints: 223ba6d9)
+com.palantir.conjure.java:conjure-undertow-lib:8.66.0 (4 constraints: 233ba9d9)
 
-com.palantir.conjure.java.api:errors:2.65.0 (4 constraints: ff454708)
+com.palantir.conjure.java.api:errors:2.67.0 (4 constraints: 0346b108)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.27.0 (3 constraints: 003b1b76)
+com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.28.0 (3 constraints: 013b1e76)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.27.0 (3 constraints: e335957c)
+com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.28.0 (3 constraints: e435987c)
 
 com.palantir.deadlines:deadlines:0.16.0 (3 constraints: c9356c76)
 
@@ -88,11 +88,11 @@ com.palantir.tritium:tritium-api:0.109.0 (4 constraints: 643efba4)
 
 com.palantir.tritium:tritium-core:0.109.0 (3 constraints: 412f4f17)
 
-com.palantir.tritium:tritium-ids:0.104.0 (3 constraints: bd2e3a08)
+com.palantir.tritium:tritium-ids:0.117.0 (3 constraints: c12e4708)
 
 com.palantir.tritium:tritium-metrics:0.109.0 (3 constraints: 532df14a)
 
-com.palantir.tritium:tritium-registry:0.115.0 (5 constraints: 705afda8)
+com.palantir.tritium:tritium-registry:0.117.0 (5 constraints: 725ab7a9)
 
 io.dropwizard.metrics:metrics-core:4.2.37 (6 constraints: 6a6a2a75)
 
@@ -132,7 +132,7 @@ org.eclipse.collections:eclipse-collections-api:13.0.0 (4 constraints: 5d41a98b)
 
 org.hdrhistogram:HdrHistogram:2.2.2 (3 constraints: 152e822a)
 
-org.immutables:value:2.11.3 (3 constraints: 332ec693)
+org.immutables:value:2.11.7 (3 constraints: 372eca93)
 
 org.jboss.logging:jboss-logging:3.6.1.Final (9 constraints: 03a62e66)
 
