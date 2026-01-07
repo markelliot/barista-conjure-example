@@ -48,11 +48,11 @@ com.markelliot.barista.tracing:barista-tracing:0.130.0 (3 constraints: 3924d9e2)
 
 com.markelliot.result:result:0.132.0 (3 constraints: 2d2414e2)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.66.0 (3 constraints: bf233193)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.67.0 (3 constraints: c0238c93)
 
-com.palantir.conjure.java:conjure-lib:8.66.0 (6 constraints: 7b6b2de0)
+com.palantir.conjure.java:conjure-lib:8.67.0 (6 constraints: 7d6b07e1)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.66.0 (4 constraints: 233ba9d9)
+com.palantir.conjure.java:conjure-undertow-lib:8.67.0 (4 constraints: 243bacd9)
 
 com.palantir.conjure.java.api:errors:2.67.0 (4 constraints: 0346b108)
 
