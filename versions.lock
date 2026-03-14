@@ -46,7 +46,7 @@ com.markelliot.barista:barista-conjure:0.125.0 (1 constraints: 6a059f40)
 
 com.markelliot.barista.tracing:barista-tracing:0.131.0 (3 constraints: 2a2480e1)
 
-com.markelliot.result:result:0.132.0 (3 constraints: 2f244be2)
+com.markelliot.result:result:0.133.0 (3 constraints: 3024a8e2)
 
 com.palantir.conjure.java:conjure-java-undertow-runtime:8.72.0 (3 constraints: be235992)
 
@@ -160,9 +160,9 @@ org.yaml:snakeyaml:2.5 (3 constraints: 8c34db6c)
 
 [Test dependencies]
 
-net.bytebuddy:byte-buddy:1.18.3 (2 constraints: 711892b8)
+net.bytebuddy:byte-buddy:1.18.3 (2 constraints: 6e182bb8)
 
-org.assertj:assertj-core:3.27.7 (2 constraints: 6512ae1e)
+org.assertj:assertj-core:3.27.7 (2 constraints: 6612af1e)
 
 org.junit:junit-bom:6.0.3 (5 constraints: 7d48919a)
 
