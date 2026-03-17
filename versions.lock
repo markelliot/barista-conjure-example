@@ -48,11 +48,11 @@ com.markelliot.barista.tracing:barista-tracing:0.131.0 (3 constraints: 2a2480e1)
 
 com.markelliot.result:result:0.133.0 (3 constraints: 3024a8e2)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.72.0 (3 constraints: be235992)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.74.0 (3 constraints: c0230f93)
 
-com.palantir.conjure.java:conjure-lib:8.72.0 (6 constraints: 736b5cdf)
+com.palantir.conjure.java:conjure-lib:8.74.0 (6 constraints: 776b10e1)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.72.0 (4 constraints: 223b5bda)
+com.palantir.conjure.java:conjure-undertow-lib:8.74.0 (4 constraints: 243b61da)
 
 com.palantir.conjure.java.api:errors:2.70.0 (4 constraints: ef451f03)
 
@@ -76,7 +76,7 @@ com.palantir.safe-logging:preconditions:3.12.0 (17 constraints: fe1bb14f)
 
 com.palantir.safe-logging:safe-logging:3.12.0 (17 constraints: 0c1e4bd1)
 
-com.palantir.tokens:auth-tokens:3.23.0 (5 constraints: af59edaf)
+com.palantir.tokens:auth-tokens:4.0.0 (5 constraints: 1359adba)
 
 com.palantir.tracing:tracing:6.32.0 (5 constraints: 9f54aed4)
 
@@ -144,7 +144,7 @@ org.jboss.xnio:xnio-nio:3.8.16.Final (3 constraints: a730c7db)
 
 org.jetbrains:annotations:26.1.0 (5 constraints: a344f934)
 
-org.jspecify:jspecify:1.0.0 (9 constraints: f884715c)
+org.jspecify:jspecify:1.0.0 (10 constraints: c792cc1e)
 
 org.mpierce.metrics.reservoir:hdrhistogram-metrics-reservoir:1.1.3 (3 constraints: 122ee429)
 
