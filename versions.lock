@@ -40,19 +40,19 @@ com.google.j2objc:j2objc-annotations:3.1 (3 constraints: ff263ba7)
 
 com.jakewharton.nopen:nopen-annotations:1.0.1 (5 constraints: 7c43dbfd)
 
-com.markelliot.barista:barista:0.125.0 (2 constraints: 6116091c)
+com.markelliot.barista:barista:0.126.0 (2 constraints: 6316401c)
 
-com.markelliot.barista:barista-conjure:0.125.0 (1 constraints: 6a059f40)
+com.markelliot.barista:barista-conjure:0.126.0 (1 constraints: 6b05a240)
 
-com.markelliot.barista.tracing:barista-tracing:0.131.0 (3 constraints: 2a2480e1)
+com.markelliot.barista.tracing:barista-tracing:0.131.0 (3 constraints: 2c24b7e1)
 
-com.markelliot.result:result:0.133.0 (3 constraints: 3024a8e2)
+com.markelliot.result:result:0.133.0 (3 constraints: 3224dfe2)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.74.0 (3 constraints: c0230f93)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.74.0 (3 constraints: c623b193)
 
-com.palantir.conjure.java:conjure-lib:8.74.0 (6 constraints: 776b10e1)
+com.palantir.conjure.java:conjure-lib:8.74.0 (6 constraints: 7d6b5ce6)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.74.0 (4 constraints: 243b61da)
+com.palantir.conjure.java:conjure-undertow-lib:8.74.0 (4 constraints: 2a3b89dc)
 
 com.palantir.conjure.java.api:errors:2.70.0 (4 constraints: ef451f03)
 
@@ -76,7 +76,7 @@ com.palantir.safe-logging:preconditions:3.12.0 (17 constraints: fe1bb14f)
 
 com.palantir.safe-logging:safe-logging:3.12.0 (17 constraints: 0c1e4bd1)
 
-com.palantir.tokens:auth-tokens:4.0.0 (5 constraints: 1359adba)
+com.palantir.tokens:auth-tokens:4.0.0 (5 constraints: ab58f641)
 
 com.palantir.tracing:tracing:6.32.0 (5 constraints: 9f54aed4)
 
