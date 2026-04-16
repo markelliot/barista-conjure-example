@@ -28,11 +28,11 @@ com.github.ben-manes.caffeine:caffeine:3.2.3 (3 constraints: 15237e38)
 
 com.google.code.findbugs:jsr305:3.0.2 (8 constraints: 669ca207)
 
-com.google.errorprone:error_prone_annotations:2.43.0 (18 constraints: f4294984)
+com.google.errorprone:error_prone_annotations:2.47.0 (18 constraints: fa298b96)
 
 com.google.guava:failureaccess:1.0.3 (3 constraints: 1928a868)
 
-com.google.guava:guava:33.5.0-jre (13 constraints: feef12fd)
+com.google.guava:guava:33.6.0-jre (13 constraints: ffefacff)
 
 com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava (3 constraints: 0e51bc8b)
 
