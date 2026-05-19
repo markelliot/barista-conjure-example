@@ -3,7 +3,7 @@ import net.ltgt.gradle.errorprone.errorprone
 
 plugins {
     idea
-    id("com.diffplug.spotless") version "8.0.0"
+    id("com.diffplug.spotless") version "8.5.1"
     id("com.google.cloud.tools.jib") version "3.5.3" apply false
     id("com.markelliot.versions") version "0.143.0"
     id("com.palantir.consistent-versions") version "3.15.0"
@@ -70,7 +70,7 @@ allprojects {
         if (applySpotless) {
             spotless {
                 java {
-                    googleJavaFormat("1.10.0").aosp()
+                    googleJavaFormat("1.27.0").aosp()
                 }
             }
             tasks["check"].dependsOn("spotlessCheck")
