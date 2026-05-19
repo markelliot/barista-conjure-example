@@ -70,7 +70,7 @@ allprojects {
         if (applySpotless) {
             spotless {
                 java {
-                    googleJavaFormat("1.10.0").aosp()
+                    googleJavaFormat("1.27.0").aosp()
                 }
             }
             tasks["check"].dependsOn("spotlessCheck")
