@@ -1,6 +1,6 @@
 # Run ./gradlew writeVersionsLocks to regenerate this file. Blank lines are to minimize merge conflicts.
 
-com.auth0:java-jwt:4.5.2 (3 constraints: 1c23033a)
+com.auth0:java-jwt:4.5.2 (3 constraints: 1e23343a)
 
 com.fasterxml.jackson:jackson-bom:2.21.3 (11 constraints: e3e22d0e)
 
@@ -24,15 +24,15 @@ com.fasterxml.jackson.datatype:jackson-datatype-joda:2.21.3 (4 constraints: 9e49
 
 com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.21.3 (4 constraints: 9e49dc61)
 
-com.github.ben-manes.caffeine:caffeine:3.2.4 (3 constraints: 1623d538)
+com.github.ben-manes.caffeine:caffeine:3.2.4 (3 constraints: 18230639)
 
 com.google.code.findbugs:jsr305:3.0.2 (8 constraints: 669ca207)
 
-com.google.errorprone:error_prone_annotations:2.49.0 (18 constraints: 2a2acde3)
+com.google.errorprone:error_prone_annotations:2.49.0 (18 constraints: 362a6005)
 
 com.google.guava:failureaccess:1.0.3 (3 constraints: 1928a868)
 
-com.google.guava:guava:33.6.0-jre (13 constraints: 08f01907)
+com.google.guava:guava:33.6.0-jre (13 constraints: 0af03f0b)
 
 com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava (3 constraints: 0e51bc8b)
 
@@ -40,59 +40,59 @@ com.google.j2objc:j2objc-annotations:3.1 (3 constraints: ff263ba7)
 
 com.jakewharton.nopen:nopen-annotations:1.0.1 (5 constraints: 7c43dbfd)
 
-com.markelliot.barista:barista:0.128.0 (2 constraints: 6716ae1c)
+com.markelliot.barista:barista:0.129.0 (2 constraints: 6916e51c)
 
-com.markelliot.barista:barista-conjure:0.128.0 (1 constraints: 6d05a840)
+com.markelliot.barista:barista-conjure:0.129.0 (1 constraints: 6e05ab40)
 
-com.markelliot.barista.tracing:barista-tracing:0.135.0 (3 constraints: 322462e3)
+com.markelliot.barista.tracing:barista-tracing:0.135.0 (3 constraints: 3624d0e3)
 
-com.markelliot.result:result:0.137.0 (3 constraints: 38248ae4)
+com.markelliot.result:result:0.137.0 (3 constraints: 3c24f8e4)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.78.0 (3 constraints: ca231d95)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.78.0 (3 constraints: d223f595)
 
-com.palantir.conjure.java:conjure-lib:8.78.0 (6 constraints: 8c6bd9e9)
+com.palantir.conjure.java:conjure-lib:8.78.0 (6 constraints: 946be9f0)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.78.0 (4 constraints: 2e3b95dc)
+com.palantir.conjure.java:conjure-undertow-lib:8.78.0 (4 constraints: 363b75df)
 
-com.palantir.conjure.java.api:errors:2.72.0 (4 constraints: f3458903)
+com.palantir.conjure.java.api:errors:2.72.0 (4 constraints: f745b505)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.34.0 (3 constraints: fa3a7474)
+com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.34.0 (3 constraints: fe3a1876)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.34.0 (3 constraints: dd35227b)
+com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.34.0 (3 constraints: e135927c)
 
-com.palantir.deadlines:deadlines:0.21.0 (3 constraints: cb358978)
+com.palantir.deadlines:deadlines:0.21.0 (3 constraints: bd358373)
 
-com.palantir.nylon:nylon-threads:0.9.0 (3 constraints: 1a2e1a2b)
+com.palantir.nylon:nylon-threads:0.9.0 (3 constraints: 1e2e382c)
 
-com.palantir.ri:resource-identifier:2.17.0 (5 constraints: b359a3af)
+com.palantir.ri:resource-identifier:2.17.0 (5 constraints: b95935b4)
 
-com.palantir.safe-logging:logger:3.15.0 (12 constraints: 0ec8bc5f)
+com.palantir.safe-logging:logger:3.15.0 (12 constraints: 14c8b66b)
 
-com.palantir.safe-logging:logger-slf4j:3.15.0 (3 constraints: 9b2c9bd3)
+com.palantir.safe-logging:logger-slf4j:3.15.0 (3 constraints: a12c39d5)
 
-com.palantir.safe-logging:logger-spi:3.15.0 (4 constraints: de3c91e7)
+com.palantir.safe-logging:logger-spi:3.15.0 (4 constraints: e43c4fea)
 
-com.palantir.safe-logging:preconditions:3.15.0 (17 constraints: 1f1c687c)
+com.palantir.safe-logging:preconditions:3.15.0 (17 constraints: 251c088e)
 
-com.palantir.safe-logging:safe-logging:3.15.0 (17 constraints: 301e3b01)
+com.palantir.safe-logging:safe-logging:3.15.0 (17 constraints: 361e0513)
 
-com.palantir.tokens:auth-tokens:4.4.0 (5 constraints: b7588a44)
+com.palantir.tokens:auth-tokens:4.4.0 (5 constraints: bf58864a)
 
-com.palantir.tracing:tracing:6.34.0 (5 constraints: a554d0d5)
+com.palantir.tracing:tracing:6.34.0 (5 constraints: a954a4d8)
 
-com.palantir.tracing:tracing-api:6.34.0 (5 constraints: 2453a97a)
+com.palantir.tracing:tracing-api:6.34.0 (5 constraints: 28536d7d)
 
-com.palantir.tracing:tracing-undertow:6.34.0 (3 constraints: d7359a79)
+com.palantir.tracing:tracing-undertow:6.34.0 (3 constraints: db350a7b)
 
-com.palantir.tritium:tritium-api:0.127.0 (4 constraints: 603e29a3)
+com.palantir.tritium:tritium-api:0.127.0 (4 constraints: 643e03a5)
 
-com.palantir.tritium:tritium-core:0.127.0 (3 constraints: 3d2f2b16)
+com.palantir.tritium:tritium-core:0.127.0 (3 constraints: 412f5517)
 
-com.palantir.tritium:tritium-ids:0.127.0 (3 constraints: c82e0e0a)
+com.palantir.tritium:tritium-ids:0.127.0 (3 constraints: cc2e380b)
 
-com.palantir.tritium:tritium-metrics:0.127.0 (3 constraints: 4f2ddd49)
+com.palantir.tritium:tritium-metrics:0.127.0 (3 constraints: 532df74a)
 
-com.palantir.tritium:tritium-registry:0.127.0 (5 constraints: 6e5aaea6)
+com.palantir.tritium:tritium-registry:0.127.0 (5 constraints: 725ac0a9)
 
 io.dropwizard.metrics:metrics-core:4.2.38 (6 constraints: 706a1d78)
 
@@ -112,17 +112,17 @@ io.smallrye.common:smallrye-common-os:2.4.0 (3 constraints: b82ce998)
 
 io.smallrye.common:smallrye-common-ref:2.4.0 (3 constraints: b82ce998)
 
-io.undertow:undertow-core:2.4.1.Final (6 constraints: 4b6b05b1)
+io.undertow:undertow-core:2.4.1.Final (6 constraints: 4d6bbcb2)
 
 joda-time:joda-time:2.12.7 (3 constraints: a234fe18)
 
-org.apache.logging.log4j:log4j-api:2.25.3 (5 constraints: 9b4cd38b)
+org.apache.logging.log4j:log4j-api:2.26.0 (5 constraints: 914c1788)
 
-org.apache.logging.log4j:log4j-core:2.25.3 (3 constraints: 7d2f1da6)
+org.apache.logging.log4j:log4j-core:2.26.0 (3 constraints: 772feda4)
 
-org.apache.logging.log4j:log4j-jul:2.25.3 (2 constraints: 741e0887)
+org.apache.logging.log4j:log4j-jul:2.26.0 (2 constraints: 701ea886)
 
-org.apache.logging.log4j:log4j-slf4j2-impl:2.25.3 (2 constraints: 741e0887)
+org.apache.logging.log4j:log4j-slf4j2-impl:2.26.0 (2 constraints: 701ea886)
 
 org.checkerframework:checker-qual:3.49.1 (3 constraints: e735d87d)
 
@@ -148,7 +148,7 @@ org.jspecify:jspecify:1.0.0 (10 constraints: c792cc1e)
 
 org.mpierce.metrics.reservoir:hdrhistogram-metrics-reservoir:1.1.3 (3 constraints: 122ee429)
 
-org.slf4j:slf4j-api:2.0.17 (9 constraints: 0b929d0b)
+org.slf4j:slf4j-api:2.0.18 (9 constraints: 0d926d0e)
 
 org.wildfly.client:wildfly-client-config:1.0.1.Final (3 constraints: c32e7eec)
 
