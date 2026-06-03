@@ -2,27 +2,27 @@
 
 com.auth0:java-jwt:4.5.2 (3 constraints: 1e23343a)
 
-com.fasterxml.jackson:jackson-bom:2.21.4 (11 constraints: ece2391a)
+com.fasterxml.jackson:jackson-bom:2.21.4 (11 constraints: eee26b1a)
 
-com.fasterxml.jackson.core:jackson-annotations:2.22 (12 constraints: a8c8a6fa)
+com.fasterxml.jackson.core:jackson-annotations:2.22 (12 constraints: aac852fc)
 
-com.fasterxml.jackson.core:jackson-core:2.21.4 (15 constraints: 2b2d67f4)
+com.fasterxml.jackson.core:jackson-core:2.21.4 (15 constraints: 2d2d15f6)
 
-com.fasterxml.jackson.core:jackson-databind:2.21.4 (17 constraints: 0655b3a1)
+com.fasterxml.jackson.core:jackson-databind:2.21.4 (17 constraints: 0855aba4)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.21.4 (4 constraints: 9f498362)
+com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.21.4 (4 constraints: a1495163)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.21.4 (4 constraints: 9f498362)
+com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.21.4 (4 constraints: a1495163)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.21.4 (3 constraints: 242d60fc)
+com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.21.4 (3 constraints: 262d92fc)
 
-com.fasterxml.jackson.datatype:jackson-datatype-guava:2.21.4 (4 constraints: 9f498362)
+com.fasterxml.jackson.datatype:jackson-datatype-guava:2.21.4 (4 constraints: a1495163)
 
-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.21.4 (4 constraints: 9f498362)
+com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.21.4 (4 constraints: a1495163)
 
-com.fasterxml.jackson.datatype:jackson-datatype-joda:2.21.4 (4 constraints: 9f498362)
+com.fasterxml.jackson.datatype:jackson-datatype-joda:2.21.4 (4 constraints: a1495163)
 
-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.21.4 (4 constraints: 9f498362)
+com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.21.4 (4 constraints: a1495163)
 
 com.github.ben-manes.caffeine:caffeine:3.2.4 (3 constraints: 18230639)
 
@@ -40,13 +40,13 @@ com.google.j2objc:j2objc-annotations:3.1 (3 constraints: ff263ba7)
 
 com.jakewharton.nopen:nopen-annotations:1.0.1 (5 constraints: 7c43dbfd)
 
-com.markelliot.barista:barista:0.130.0 (2 constraints: 59162f1b)
+com.markelliot.barista:barista:0.131.0 (2 constraints: 5b16661b)
 
-com.markelliot.barista:barista-conjure:0.130.0 (1 constraints: 66059440)
+com.markelliot.barista:barista-conjure:0.131.0 (1 constraints: 67059740)
 
-com.markelliot.barista.tracing:barista-tracing:0.136.0 (3 constraints: 392464e4)
+com.markelliot.barista.tracing:barista-tracing:0.136.0 (3 constraints: 3b249be4)
 
-com.markelliot.result:result:0.138.0 (3 constraints: 3f248ce5)
+com.markelliot.result:result:0.138.0 (3 constraints: 4124c3e5)
 
 com.palantir.conjure.java:conjure-java-undertow-runtime:8.78.0 (3 constraints: d223f595)
 
