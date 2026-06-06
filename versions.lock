@@ -2,27 +2,27 @@
 
 com.auth0:java-jwt:4.5.2 (3 constraints: 1e23343a)
 
-com.fasterxml.jackson:jackson-bom:2.22.0 (11 constraints: d3e24af6)
+com.fasterxml.jackson:jackson-bom:2.22.0 (11 constraints: cde2b8f5)
 
 com.fasterxml.jackson.core:jackson-annotations:2.22 (12 constraints: afc81904)
 
-com.fasterxml.jackson.core:jackson-core:2.22.0 (15 constraints: 122df9bd)
+com.fasterxml.jackson.core:jackson-core:2.22.0 (15 constraints: 0c2df3b8)
 
-com.fasterxml.jackson.core:jackson-databind:2.22.0 (17 constraints: f0543f66)
+com.fasterxml.jackson.core:jackson-databind:2.22.0 (17 constraints: ea545b5d)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.22.0 (4 constraints: 9e495e61)
+com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.22.0 (4 constraints: 9849f85e)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.22.0 (4 constraints: 9e495e61)
+com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.22.0 (4 constraints: 9849f85e)
 
-com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.22.0 (3 constraints: 232d89fb)
+com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.22.0 (3 constraints: 1d2df7fa)
 
-com.fasterxml.jackson.datatype:jackson-datatype-guava:2.22.0 (4 constraints: 9e495e61)
+com.fasterxml.jackson.datatype:jackson-datatype-guava:2.22.0 (4 constraints: 9849f85e)
 
-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.22.0 (4 constraints: 9e495e61)
+com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.22.0 (4 constraints: 9849f85e)
 
-com.fasterxml.jackson.datatype:jackson-datatype-joda:2.22.0 (4 constraints: 9e495e61)
+com.fasterxml.jackson.datatype:jackson-datatype-joda:2.22.0 (4 constraints: 9849f85e)
 
-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.22.0 (4 constraints: 9e495e61)
+com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.22.0 (4 constraints: 9849f85e)
 
 com.github.ben-manes.caffeine:caffeine:3.2.4 (3 constraints: 18230639)
 
@@ -40,9 +40,9 @@ com.google.j2objc:j2objc-annotations:3.1 (3 constraints: ff263ba7)
 
 com.jakewharton.nopen:nopen-annotations:1.0.1 (5 constraints: 7c43dbfd)
 
-com.markelliot.barista:barista:0.131.0 (2 constraints: 5b16661b)
+com.markelliot.barista:barista:0.132.0 (2 constraints: 5d169d1b)
 
-com.markelliot.barista:barista-conjure:0.131.0 (1 constraints: 67059740)
+com.markelliot.barista:barista-conjure:0.132.0 (1 constraints: 68059a40)
 
 com.markelliot.barista.tracing:barista-tracing:0.136.0 (3 constraints: 3b249be4)
 
