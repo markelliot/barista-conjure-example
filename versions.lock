@@ -44,7 +44,7 @@ com.markelliot.barista:barista:0.132.0 (2 constraints: 5d169d1b)
 
 com.markelliot.barista:barista-conjure:0.132.0 (1 constraints: 68059a40)
 
-com.markelliot.barista.tracing:barista-tracing:0.136.0 (3 constraints: 3b249be4)
+com.markelliot.barista.tracing:barista-tracing:0.137.0 (3 constraints: 3c24f8e4)
 
 com.markelliot.result:result:0.139.0 (3 constraints: 422420e6)
 
