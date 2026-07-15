@@ -1,6 +1,6 @@
 # Run ./gradlew writeVersionsLocks to regenerate this file. Blank lines are to minimize merge conflicts.
 
-com.auth0:java-jwt:4.6.0 (3 constraints: 1d23df39)
+com.auth0:java-jwt:4.6.0 (3 constraints: 1b23b239)
 
 com.fasterxml.jackson:jackson-bom:2.22.1 (11 constraints: d8e20502)
 
@@ -40,57 +40,57 @@ com.google.j2objc:j2objc-annotations:3.1 (3 constraints: ff263ba7)
 
 com.jakewharton.nopen:nopen-annotations:1.0.1 (5 constraints: 7c43dbfd)
 
-com.markelliot.barista:barista:0.137.0 (2 constraints: 6716b01c)
+com.markelliot.barista:barista:0.138.0 (2 constraints: 6916e71c)
 
-com.markelliot.barista:barista-conjure:0.137.0 (1 constraints: 6d05a940)
+com.markelliot.barista:barista-conjure:0.138.0 (1 constraints: 6e05ac40)
 
-com.markelliot.barista.tracing:barista-tracing:0.142.0 (3 constraints: 3024abe2)
+com.markelliot.barista.tracing:barista-tracing:0.142.0 (3 constraints: 3224e2e2)
 
-com.markelliot.result:result:0.144.0 (3 constraints: 3624d3e3)
+com.markelliot.result:result:0.144.0 (3 constraints: 38240ae4)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.82.0 (3 constraints: bf23b792)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.82.0 (3 constraints: c3232393)
 
-com.palantir.conjure.java:conjure-lib:8.82.0 (6 constraints: 766b3ee0)
+com.palantir.conjure.java:conjure-lib:8.82.0 (6 constraints: 7a6bc6e3)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.82.0 (4 constraints: 233b61da)
+com.palantir.conjure.java:conjure-undertow-lib:8.82.0 (4 constraints: 273bd1db)
 
-com.palantir.conjure.java.api:errors:2.75.0 (4 constraints: ff456a07)
+com.palantir.conjure.java.api:errors:2.75.0 (4 constraints: 03469609)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.38.0 (3 constraints: 063bc877)
+com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.38.0 (3 constraints: 0a3b6c79)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.38.0 (3 constraints: e9350e7e)
+com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.38.0 (3 constraints: ed357e7f)
 
-com.palantir.deadlines:deadlines:0.23.0 (3 constraints: c1354174)
+com.palantir.deadlines:deadlines:0.23.0 (3 constraints: c335f974)
 
-com.palantir.nylon:nylon-threads:0.11.0 (3 constraints: 972ef39b)
+com.palantir.nylon:nylon-threads:0.11.0 (3 constraints: 992e859c)
 
-com.palantir.ri:resource-identifier:2.20.0 (5 constraints: a959ceb1)
+com.palantir.ri:resource-identifier:2.20.0 (5 constraints: 9b5926a7)
 
-com.palantir.safe-logging:logger:3.17.0 (12 constraints: 24c8637d)
+com.palantir.safe-logging:logger:3.17.0 (12 constraints: 26c86181)
 
-com.palantir.safe-logging:logger-slf4j:3.17.0 (3 constraints: a52cc9d5)
+com.palantir.safe-logging:logger-slf4j:3.17.0 (3 constraints: a72c53d6)
 
-com.palantir.safe-logging:logger-spi:3.17.0 (4 constraints: ea3ca5eb)
+com.palantir.safe-logging:logger-spi:3.17.0 (4 constraints: ec3c8fec)
 
-com.palantir.safe-logging:preconditions:3.17.0 (17 constraints: 401c8db9)
+com.palantir.safe-logging:preconditions:3.17.0 (17 constraints: 421c6dbf)
 
-com.palantir.safe-logging:safe-logging:3.17.0 (17 constraints: 541e1041)
+com.palantir.safe-logging:safe-logging:3.17.0 (17 constraints: 561efe46)
 
-com.palantir.tokens:auth-tokens:4.7.0 (5 constraints: ca58f44d)
+com.palantir.tokens:auth-tokens:4.7.0 (5 constraints: ce58f250)
 
-com.palantir.tracing:tracing:6.36.0 (5 constraints: b15430db)
+com.palantir.tracing:tracing:6.36.0 (5 constraints: b3549adc)
 
-com.palantir.tracing:tracing-api:6.36.0 (5 constraints: 3053e97f)
+com.palantir.tracing:tracing-api:6.36.0 (5 constraints: 32534b81)
 
-com.palantir.tracing:tracing-undertow:6.36.0 (3 constraints: df35c87b)
+com.palantir.tracing:tracing-undertow:6.36.0 (3 constraints: e135807c)
 
-com.palantir.tritium:tritium-api:0.131.0 (4 constraints: 4e3e709e)
+com.palantir.tritium:tritium-api:0.131.0 (4 constraints: 503e5d9f)
 
-com.palantir.tritium:tritium-core:0.131.0 (3 constraints: 302fcb13)
+com.palantir.tritium:tritium-core:0.131.0 (3 constraints: 322f6014)
 
 com.palantir.tritium:tritium-ids:0.128.0 (3 constraints: cf2ed00b)
 
-com.palantir.tritium:tritium-metrics:0.131.0 (3 constraints: 422d9d47)
+com.palantir.tritium:tritium-metrics:0.131.0 (3 constraints: 442d2a48)
 
 com.palantir.tritium:tritium-registry:0.131.0 (5 constraints: 5a5a9b9f)
 
