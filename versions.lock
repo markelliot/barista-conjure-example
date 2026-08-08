@@ -4,11 +4,11 @@ com.auth0:java-jwt:4.6.0 (3 constraints: 1b23b239)
 
 com.fasterxml.jackson:jackson-bom:2.22.1 (11 constraints: d8e20502)
 
-com.fasterxml.jackson.core:jackson-annotations:2.22 (13 constraints: cbe48678)
+com.fasterxml.jackson.core:jackson-annotations:2.22 (13 constraints: cde4f179)
 
-com.fasterxml.jackson.core:jackson-core:2.22.1 (15 constraints: 1e2d55c9)
+com.fasterxml.jackson.core:jackson-core:2.22.1 (15 constraints: 1a2dbfc7)
 
-com.fasterxml.jackson.core:jackson-databind:2.22.1 (17 constraints: 04555778)
+com.fasterxml.jackson.core:jackson-databind:2.22.1 (17 constraints: 00552d74)
 
 com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.22.1 (4 constraints: 9e497060)
 
@@ -48,11 +48,11 @@ com.markelliot.barista.tracing:barista-tracing:0.144.0 (3 constraints: 38240ae4)
 
 com.markelliot.result:result:0.147.0 (3 constraints: 3f248fe5)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.83.0 (3 constraints: c623b493)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.84.0 (3 constraints: c7230f94)
 
-com.palantir.conjure.java:conjure-lib:8.83.0 (6 constraints: 806b6ae6)
+com.palantir.conjure.java:conjure-lib:8.84.0 (6 constraints: 826b44e7)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.83.0 (4 constraints: 2a3b8cdc)
+com.palantir.conjure.java:conjure-undertow-lib:8.84.0 (4 constraints: 2b3b8fdc)
 
 com.palantir.conjure.java.api:errors:2.76.0 (4 constraints: 0746e10a)
 
