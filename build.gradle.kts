@@ -6,7 +6,7 @@ plugins {
     id("com.diffplug.spotless") version "8.9.0"
     id("com.google.cloud.tools.jib") version "3.5.4" apply false
     id("com.markelliot.versions") version "0.155.0"
-    id("com.palantir.consistent-versions") version "3.16.0"
+    id("com.palantir.consistent-versions") version "3.18.0"
     id("net.ltgt.errorprone") version "5.1.0" apply false
     id("org.inferred.processors") version "3.7.0" apply false
     id("com.palantir.conjure") version "6.2.0" apply false
