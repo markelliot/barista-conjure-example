@@ -46,7 +46,7 @@ com.markelliot.barista:barista-conjure:0.142.0 (1 constraints: 69059e40)
 
 com.markelliot.barista.tracing:barista-tracing:0.146.0 (3 constraints: 3c24fbe4)
 
-com.markelliot.result:result:0.148.0 (3 constraints: 44245ae6)
+com.markelliot.result:result:0.149.0 (3 constraints: 4524b7e6)
 
 com.palantir.conjure.java:conjure-java-undertow-runtime:8.84.0 (3 constraints: c9234594)
 
