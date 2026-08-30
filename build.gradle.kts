@@ -9,7 +9,7 @@ plugins {
     id("com.palantir.consistent-versions") version "3.18.0"
     id("net.ltgt.errorprone") version "5.1.0" apply false
     id("org.inferred.processors") version "3.7.0" apply false
-    id("com.palantir.conjure") version "6.3.0" apply false
+    id("com.palantir.conjure") version "6.4.0" apply false
 }
 
 version = "git describe --tags".runCommand().trim() +
