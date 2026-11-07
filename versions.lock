@@ -28,11 +28,11 @@ com.github.ben-manes.caffeine:caffeine:3.3.1 (3 constraints: 1223fc37)
 
 com.google.code.findbugs:jsr305:3.0.2 (8 constraints: 669ca207)
 
-com.google.errorprone:error_prone_annotations:2.50.0 (18 constraints: dc29745c)
+com.google.errorprone:error_prone_annotations:2.52.0 (18 constraints: e8298a73)
 
 com.google.guava:failureaccess:1.0.3 (3 constraints: 1928a868)
 
-com.google.guava:guava:33.7.2-jre (13 constraints: 2bf02934)
+com.google.guava:guava:33.8.0-jre (13 constraints: 27f0e02f)
 
 com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava (3 constraints: 0e51bc8b)
 
@@ -48,17 +48,17 @@ com.markelliot.barista.tracing:barista-tracing:0.153.0 (3 constraints: 3624d6e3)
 
 com.markelliot.result:result:0.156.0 (3 constraints: 3f2492e5)
 
-com.palantir.conjure.java:conjure-java-undertow-runtime:8.99.0 (3 constraints: db23ae97)
+com.palantir.conjure.java:conjure-java-undertow-runtime:8.100.0 (3 constraints: fa2388a7)
 
-com.palantir.conjure.java:conjure-lib:8.99.0 (6 constraints: a26bd3f8)
+com.palantir.conjure.java:conjure-lib:8.100.0 (6 constraints: e26bd39c)
 
-com.palantir.conjure.java:conjure-undertow-lib:8.99.0 (4 constraints: 3f3bace1)
+com.palantir.conjure.java:conjure-undertow-lib:8.100.0 (4 constraints: 5e3be01c)
 
-com.palantir.conjure.java.api:errors:2.82.0 (4 constraints: fb450407)
+com.palantir.conjure.java.api:errors:2.83.0 (4 constraints: fd453907)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.46.0 (3 constraints: 073b9a78)
+com.palantir.conjure.java.runtime:conjure-java-jackson-optimizations:8.49.0 (3 constraints: 0a3ba378)
 
-com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.46.0 (3 constraints: ea35c67e)
+com.palantir.conjure.java.runtime:conjure-java-jackson-serialization:8.49.0 (3 constraints: ed35cf7e)
 
 com.palantir.deadlines:deadlines:0.29.0 (3 constraints: d5355b79)
 
@@ -72,9 +72,9 @@ com.palantir.safe-logging:logger-slf4j:3.21.0 (3 constraints: 982c95d3)
 
 com.palantir.safe-logging:logger-spi:3.21.0 (4 constraints: d83cf3e6)
 
-com.palantir.safe-logging:preconditions:3.21.0 (17 constraints: 011c6b56)
+com.palantir.safe-logging:preconditions:3.21.0 (17 constraints: 021c6e56)
 
-com.palantir.safe-logging:safe-logging:3.21.0 (17 constraints: 0e1ea8d8)
+com.palantir.safe-logging:safe-logging:3.21.0 (17 constraints: 0f1eabd8)
 
 com.palantir.tokens:auth-tokens:4.13.0 (5 constraints: af59f7af)
 
@@ -92,7 +92,7 @@ com.palantir.tritium:tritium-ids:0.128.0 (3 constraints: cf2ed00b)
 
 com.palantir.tritium:tritium-metrics:0.139.0 (3 constraints: 5c2daa4c)
 
-com.palantir.tritium:tritium-registry:0.139.0 (5 constraints: 825a73b0)
+com.palantir.tritium:tritium-registry:0.141.0 (5 constraints: 7b5ae9ad)
 
 io.dropwizard.metrics:metrics-core:4.2.40 (6 constraints: 466a7e63)
 
@@ -112,7 +112,7 @@ io.smallrye.common:smallrye-common-os:2.4.0 (3 constraints: b82ce998)
 
 io.smallrye.common:smallrye-common-ref:2.4.0 (3 constraints: b82ce998)
 
-io.undertow:undertow-core:2.4.4.Final (6 constraints: 526be2b9)
+io.undertow:undertow-core:2.4.4.Final (6 constraints: 546b98ba)
 
 joda-time:joda-time:2.12.7 (3 constraints: a234fe18)
 
